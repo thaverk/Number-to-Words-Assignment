@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToWord", "NumberToWord\NumberToWord.csproj", "{0DE919C5-1457-462B-A9A9-7A02DE39B07B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DE919C5-1457-462B-A9A9-7A02DE39B07B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE919C5-1457-462B-A9A9-7A02DE39B07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE919C5-1457-462B-A9A9-7A02DE39B07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE919C5-1457-462B-A9A9-7A02DE39B07B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB5553E3-655C-420A-8613-DE05C4F71C1A}
+	EndGlobalSection
+EndGlobal
